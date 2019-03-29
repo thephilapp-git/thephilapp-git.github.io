@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (https://username.github.io) then use these settings:
-url: "https://vivianamarquez.com"
+url: "https://thephilapp.com"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -14,10 +14,10 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Viviana Márquez
+title: Travel Sized Phil
 
 # Short description of your site
-description: Welcome!
+description: A group travel app!
 
 # --- Navigation bar options --- #
 
@@ -28,9 +28,9 @@ navbar-links:
   #  - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
   #  - Learn markdown: "http://www.markdowntutorial.com/"
   #  - GitHub Pages: "https://pages.github.com/"
-  MY RESUME: "https://vivianamarquez.github.io/online-cv/"
-  Science Posts: "http://vivianamarquez.com/pages/SciencePosts/"
-  Lecture Notes: "http://vivianamarquez.com/pages/LectureNotes/"
+  LOGIN: "http://thephilapp.com/login/"
+  # Science Posts: "http://vivianamarquez.com/pages/SciencePosts/"
+  # Lecture Notes: "http://vivianamarquez.com/pages/LectureNotes/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -76,22 +76,22 @@ social-network-links:
 #  rss: false
   email: "vivianamarquez@live.com"
 # facebook: daattali
-  github: vivianamarquez
-  twitter: vivmarquez
+#  github: vivianamarquez
+  twitter: usfca_msds
 #  reddit: yourname
 #  google-plus: +DeanAttali
-  linkedin: vivianamarquez
+#  linkedin: vivianamarquez
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-  instagram: vivianamarquez
+  instagram: usfca_msds
 #  youtube: user/deanat78
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
-  medium: vivianamarquez
+#  medium: vivianamarquez
 
 # Select which share links to show in posts
 share-links-active:
