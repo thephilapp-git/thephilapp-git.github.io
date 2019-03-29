@@ -1,1 +1,3 @@
-Hey
+<img src='img/us.png'>
+
+Hey!
