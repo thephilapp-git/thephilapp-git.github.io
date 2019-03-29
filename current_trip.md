@@ -6,7 +6,7 @@
 </marquee>
 
 
-Keep planning your trip:
+Keep planning your trip to San Francisco:
 
 <img src="/img/mock.png">
 
