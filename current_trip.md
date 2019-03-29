@@ -9,5 +9,5 @@
 
 Keep planning your trip to San Francisco:
 
-<img src="/img/mock.png">
+<img src="https://bloximages.newyork1.vip.townnews.com/dentonrc.com/content/tncms/assets/v3/editorial/8/bf/8bff130a-4942-11e8-a14e-e309ea033e2b/5ae1b3f5acabe.image.jpg">
 
